@@ -54,6 +54,54 @@ Welcome to my AI agent portfolio! As a digital marketing professional with 10+ y
 
 ---
 
+### TLDR
+**Description**: Allows you to click a button on any webpage, YouTube video, PDF and extract all of the relevant points.
+
+**Use Case**: Essential for busy professionals, students, and researchers who need to quickly digest large amounts of content across multiple formats.
+
+**Key Features:**
+- One-click content summarization
+- Multi-format support (web pages, YouTube, PDFs)
+- Relevant point extraction
+- Time-saving content analysis
+- Universal compatibility
+
+[🔗 Try it out](https://app.mindstudio.ai/agents/tldr-4f4fc307)
+
+---
+
+### Email Thread Summarizer
+**Description**: Forward any email thread to the Agent's email address, and it will analyze the thread and send back an email with the analysis.
+
+**Use Case**: Perfect for executives, project managers, and team leads who need to quickly understand complex email conversations and decision points.
+
+**Key Features:**
+- Email-to-email processing
+- Thread analysis and summarization
+- Automated response delivery
+- Complex conversation parsing
+- Decision point identification
+
+[🔗 Try it out](https://app.mindstudio.ai/agents/email-tldr-cf442552)
+
+---
+
+### Blog Post Generator
+**Description**: This Agent is a simple web application that displays a form field, asking you to enter a topic for a blog post, and then writes a blog post about the topic.
+
+**Use Case**: Ideal for content marketers, bloggers, and digital marketing professionals who need to generate high-quality blog content quickly and consistently.
+
+**Key Features:**
+- Simple topic-to-post generation
+- Web application interface
+- Form-based input system
+- Automated content creation
+- Marketing-focused output
+
+[🔗 Try it out](https://app.mindstudio.ai/agents/blog-post-generator-f6b0bc4d)
+
+---
+
 ## 👨‍💼 About Me
 
 I'm Siva, an MBA-qualified digital marketing professional with over 10 years of experience specializing in the powerful 3S combination of strategy, systems, and scaling. Currently working with How To SaaS, I'm passionate about leveraging AI technology to solve complex business challenges and streamline operations.
